@@ -17,5 +17,7 @@ linux内网渗透
 https://www.jeeseen.com/archives/1937.html
 域渗透基础讲解
 
+https://www.hacking8.com/greyhame-2017/skills/pen-test.html
+域渗透讲解
 
 
