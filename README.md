@@ -22,3 +22,10 @@ https://www.hacking8.com/greyhame-2017/skills/pen-test.html
 
 https://apps.evozi.com/apk-downloader/
 Google应用商店APK下载
+
+masm编译shellcode
+nasm -f bin eternalblue_kshellcode_x64.asm
+
+
+
+
